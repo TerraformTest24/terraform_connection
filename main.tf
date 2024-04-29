@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "github" {
-  token = "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"
+  token = "TOKEN_GOES_HERE"
   owner = "TerraformTest24"
 }
 
